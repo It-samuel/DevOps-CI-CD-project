@@ -1,13 +1,8 @@
 # DevOps-CI-CD-project
 Welcome to the Azure DevOps project repository! This project showcases the deployment of a microservices-based application through an end-to-end CI/CD pipeline, from scratch. Whether you're new to DevOps or have some experience, this guide will help you understand how to automate your deployments with Azure DevOps.
 
-Certainly! Here's a professional GitHub `README.md` file based on the transcript provided, focused on a cloud-based DevOps project using Azure DevOps to deploy a microservices-based application via CI/CD pipelines.
 
----
 
-# Azure DevOps Masterclass: 10-Microservice Real-Time Application CI/CD DevOps Project
-
-Welcome to the Azure DevOps Masterclass project repository! This project showcases the deployment of a microservices-based application through an end-to-end CI/CD pipeline, from scratch. Whether you're new to DevOps or have some experience, this guide will help you understand how to automate your deployments with Azure DevOps.
 
 ## Project Overview
 
