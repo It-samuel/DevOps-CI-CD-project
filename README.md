@@ -38,7 +38,7 @@ Before you start, ensure that you have the following:
 
 ### Step 1: Set up SonarQube on an AWS VM
 
-1. Create an AWS VM with 8 GiB RAM and install SonarQube. Use this VM as an agent in Azure DevOps.
+1. Create an Azure VM with 8 GiB RAM and install SonarQube. Use this VM as an agent in Azure DevOps.
 2. Install the required plugins, such as the Community Branch Plugin, on SonarQube.
 
 ### Step 2: Configure Kubernetes Clusters
