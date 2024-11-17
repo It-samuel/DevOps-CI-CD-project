@@ -30,13 +30,13 @@ The architecture is designed for ease of deployment, where a single pipeline dep
 Before you start, ensure that you have the following:
 
 - **Azure DevOps Account**: Set up a free Azure DevOps account [here](https://azure.microsoft.com/en-us/services/devops/).
-- **AWS Virtual Machine**: Used for SonarQube setup with minimum 8 GiB RAM.
+- **Azure Virtual Machine**: Used for SonarQube setup with minimum 8 GiB RAM.
 - **DockerHub Account**: For pushing Docker images.
 - **Kubernetes Cluster**: Two clusters (Dev and Prod) in Azure Kubernetes Service (AKS).
 
 ## Setup and Configuration
 
-### Step 1: Set up SonarQube on an AWS VM
+### Step 1: Set up SonarQube on an Azure VM
 
 1. Create an Azure VM with 8 GiB RAM and install SonarQube. Use this VM as an agent in Azure DevOps.
 2. Install the required plugins, such as the Community Branch Plugin, on SonarQube.
